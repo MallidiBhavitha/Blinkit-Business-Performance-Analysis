@@ -1,4 +1,4 @@
-# Blinkit Business Performance Analysis using SQL & Power BI
+# Blinkit Business Performance Analysis
 
 ## Project Overview
 
