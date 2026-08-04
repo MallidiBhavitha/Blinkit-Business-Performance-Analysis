@@ -283,17 +283,6 @@ Blinkit-Business-Performance-Analysis
 
 ---
 
-## Future Enhancements
-
-- Predictive customer churn analysis
-- Customer lifetime value prediction
-- Inventory demand forecasting
-- Delivery time prediction
-- Recommendation system for personalized marketing
-- Machine learning integration
-
----
-
 ## Author
 
 Mallidi Bhavitha
